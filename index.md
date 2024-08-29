@@ -34,6 +34,13 @@ AI systems must have interfaces that are transparent and easily understood by st
 
 **Declaration:** We advocate for AI tools that are designed with clarity and honesty at their core. These tools must explicitly convey their limitations and avoid presenting erroneous information with undue confidence. In doing so, they will support a learning environment where students can trust, but also critically assess, the AI's outputs.
 
+## Principle 6: Ethical Training and Transparency
+
+AI models used in education must be trained in an ethical manner, with a clear commitment to transparency regarding the sources of training data and the methodologies used. It is essential that these models actively work to minimize biases and provide transparency about their training processes, allowing educators and students to understand the limitations and considerations involved in the AI's outputs.
+
+**Declaration:** We insist that all AI tools in educational contexts must be developed and deployed with a commitment to ethical standards. This includes openly declaring the sources of training data, ensuring that the models are designed to minimize biases, and providing transparency about the potential limitations inherent in the AI's decision-making processes.
+
+
 ## Conclusion
 The integration of AI into education is inevitable and holds great potential. However, this integration must be guided by principles that prioritize the well-being, privacy, and educational success of students. The Safe AI in Education Manifesto is a commitment to these principles, ensuring that AI enhances the educational experience without compromising ethical standards or educational integrity.
 
