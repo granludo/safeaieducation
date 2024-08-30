@@ -53,4 +53,5 @@ The following individuals and organizations endorse the Safe AI in Education Man
 2. **[Francisco Garcia Peñalvo]**, [Full Professor], [Univerdad de Salamanca]
 3. **[Maria José Casañ Guerrero]**, [Associate Professpr], [Universitat Politècnica de Catalunya]
 4. **[Juan Antonio Pereira]**, [Associate Professor], [Universidad del Pais Vasco/Euskal Herriko Unibertsitatea]
+5. **[Faraón Llorens Largo]**, [Associate Professor], [Universidad de Alicante]
 
