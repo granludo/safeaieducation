@@ -56,5 +56,6 @@ The following individuals and organizations endorse the Safe AI in Education Man
 5. **[Faraón Llorens Largo]**, [Associate Professor], [Universidad de Alicante]
 6. **[Carina Gonzalez]**, [Full Professor], [Universidad de la Laguna]
 7. **[David Fonseca]**, [Full Professor], [Universidad Ramon Llull]
-
+8. **[Miguel Ángel Conde Gonzalez]**, [Associate Professor], [Universidad de León]
+9. **[Andrea Vázquez]**, [Researcher], [Universidad de Salamanca]
 
