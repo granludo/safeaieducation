@@ -54,4 +54,7 @@ The following individuals and organizations endorse the Safe AI in Education Man
 3. **[Maria José Casañ Guerrero]**, [Associate Professpr], [Universitat Politècnica de Catalunya]
 4. **[Juan Antonio Pereira]**, [Associate Professor], [Universidad del Pais Vasco/Euskal Herriko Unibertsitatea]
 5. **[Faraón Llorens Largo]**, [Associate Professor], [Universidad de Alicante]
+6. **[Carina Gonzalez]**, [Full Professor], [Universidad de la Laguna]
+7. **[David Fonseca]**, [Full Professor], [Universidad Ramon Llull]
+
 
