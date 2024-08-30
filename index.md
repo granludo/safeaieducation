@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My GitHub Pages Site
+title: Safe AI in Education Manifesto
 ---
 
 # Safe AI in Education Manifesto
