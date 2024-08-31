@@ -58,4 +58,9 @@ The following individuals and organizations endorse the Safe AI in Education Man
 7. **[David Fonseca]**, [Full Professor], [Universidad Ramon Llull]
 8. **[Miguel Ángel Conde Gonzalez]**, [Associate Professor], [Universidad de León]
 9. **[Andrea Vázquez]**, [Researcher], [Universidad de Salamanca]
+10. **[Marisa Sein-Echaluce]**, [Associate Professor], [Universidad de Zaragoza]
+11. **[Àngel Fidalgo Blanco]**, [Associate Professor], [Universidad Politécnica de Madrid] [Director Laboratorio de Innovación en Tecnologías de la Información]
+12. **[Rafael Marina Carmona]**, [Associate Professor], [Universidad de Alicante]
+13. **[Alicia Garcia-Holgado]**, [Associate Professor], [Universidad de Salamanca]
+
 
