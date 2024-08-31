@@ -4,10 +4,17 @@ title: Safe AI in Education Manifesto
 ---
 
 # Safe AI in Education Manifesto
-version 0.1 29 august 2024
+version 0.1.1 29 august 2024
 
 ## Preamble
-In the rapidly evolving landscape of education, Artificial Intelligence (AI) holds great promise to enhance learning experiences, streamline administrative tasks, and support both students and educators. However, with these advancements come significant responsibilities. The Safe AI in Education Manifesto establishes the foundational principles that ensure AI is deployed in educational settings in a manner that is ethical, secure, and aligned with the core objectives of education.
+
+In the rapidly evolving landscape of education, Artificial Intelligence (AI) holds great promise to enhance learning experiences, streamline administrative tasks, and support both students and educators. However, with these advancements come significant responsibilities.
+
+The Safe AI in Education Manifesto establishes the foundational principles that ensure AI is deployed in educational settings in a manner that is ethical, secure, and aligned with the core objectives of education. 
+
+This principles are intended to provide a framework to guide educators, educational institutions, developers and AI vendors in their decision making process about the use of AI in education.
+
+
 
 ## Principle 1: Guaranteeing Confidentiality
 We commit to safeguarding the privacy and confidentiality of all student data, including identities, roles, academic records, and interactions. AI systems must be designed and implemented with stringent security measures to protect student information. Educational institutions should either own and operate the technology stack or require strict privacy compliance from AI vendors, ensuring no data is exposed to unauthorized parties.
@@ -60,7 +67,7 @@ The following individuals and organizations endorse the Safe AI in Education Man
 9. **[Andrea Vázquez]**, [Researcher], [Universidad de Salamanca]
 10. **[Marisa Sein-Echaluce]**, [Associate Professor], [Universidad de Zaragoza]
 11. **[Àngel Fidalgo Blanco]**, [Associate Professor], [Universidad Politécnica de Madrid] [Director Laboratorio de Innovación en Tecnologías de la Información]
-12. **[Rafael Marina Carmona]**, [Associate Professor], [Universidad de Alicante]
+12. **[Rafael Molina Carmona]**, [Associate Professor], [Universidad de Alicante]
 13. **[Alicia Garcia-Holgado]**, [Associate Professor], [Universidad de Salamanca]
 
 
