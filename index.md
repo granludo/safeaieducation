@@ -14,7 +14,7 @@ The Safe AI in Education Manifesto establishes the foundational principles that 
 
 This principles are intended to provide a framework to guide educators, educational institutions, developers and AI vendors in their decision making process about the use of AI in education.
 
-
+This is a living document and it will be updated as the community and the technology mature.
 
 ## Principle 1: Guaranteeing Confidentiality
 We commit to safeguarding the privacy and confidentiality of all student data, including identities, roles, academic records, and interactions. AI systems must be designed and implemented with stringent security measures to protect student information. Educational institutions should either own and operate the technology stack or require strict privacy compliance from AI vendors, ensuring no data is exposed to unauthorized parties.
@@ -69,5 +69,7 @@ The following individuals and organizations endorse the Safe AI in Education Man
 11. **[Àngel Fidalgo Blanco]**, [Associate Professor], [Universidad Politécnica de Madrid] [Director Laboratorio de Innovación en Tecnologías de la Información]
 12. **[Rafael Molina Carmona]**, [Associate Professor], [Universidad de Alicante]
 13. **[Alicia Garcia-Holgado]**, [Associate Professor], [Universidad de Salamanca]
+14. **[Ariadna Llorens]**, [Associate Professor], [Universitat Politècnica de Catalunya]
+15. **[Benjami Villaoslada]** [Bitologist][Founder of Meneame.net and pic.dental]
 
 
