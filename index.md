@@ -64,12 +64,13 @@ The following individuals and organizations endorse the Safe AI in Education Man
 6. **[Carina Gonzalez]**, [Full Professor], [Universidad de la Laguna]
 7. **[David Fonseca]**, [Full Professor], [Universidad Ramon Llull]
 8. **[Miguel Ángel Conde Gonzalez]**, [Associate Professor], [Universidad de León]
-9. **[Andrea Vázquez]**, [Researcher], [Universidad de Salamanca]
+9. **[Andrea Vázquez]**, [Postdoctoral Researcher], [Universidad de Salamanca]
 10. **[Marisa Sein-Echaluce]**, [Associate Professor], [Universidad de Zaragoza]
 11. **[Àngel Fidalgo Blanco]**, [Associate Professor], [Universidad Politécnica de Madrid] [Director Laboratorio de Innovación en Tecnologías de la Información]
 12. **[Rafael Molina Carmona]**, [Associate Professor], [Universidad de Alicante]
 13. **[Alicia Garcia-Holgado]**, [Associate Professor], [Universidad de Salamanca]
 14. **[Ariadna Llorens]**, [Associate Professor], [Universitat Politècnica de Catalunya]
-15. **[Benjami Villaoslada]** [Bitologist][Founder of Meneame.net and pic.dental]
+15. **[Benjami Villoslada]** [Bitologist, former CIO of Government of Balearic Islands][Founder of Meneame.net and pic.dental]
+16. **[Lucia Garcia-Holgado]** [Postdoctoral Researcher, Universidad de Salamanca]
 
 
