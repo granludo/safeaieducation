@@ -8,7 +8,7 @@ version 0.1.1 29 august 2024
 
 ## Preamble
 
-In the rapidly evolving landscape of education, Artificial Intelligence (AI) holds great promise to enhance learning experiences, streamline administrative tasks, and support both students and educators. However, with these advancements come significant responsibilities.
+In the rapidly evolving landscape of education, Artificial Intelligence (AI) offers great prospects for improving learning experiences, streamline administrative tasks, and support both students and educators. However, with these advances come significant responsibilities.
 
 The Safe AI in Education Manifesto establishes the foundational principles that ensure AI is deployed in educational settings in a manner that is ethical, secure, and aligned with the core objectives of education. 
 
@@ -24,12 +24,12 @@ We commit to safeguarding the privacy and confidentiality of all student data, i
 ## Principle 2: Alignment with Educational Strategies
 AI tools must be in harmony with the educational strategies and IT governance of the institutions they serve. They should support learning objectives without introducing undue complexity or facilitating unethical practices such as cheating or plagiarism. AI should be a tool that enhances educational outcomes, not one that complicates the learning process.
 
-**Declaration:** We recognize the dangers of using general-purpose AI tools that are not specifically designed for educational contexts. The complexity of such tools, along with the risk of misuse, undermines the educational process and increases cognitive load. We advocate for the use of AI systems that are tailored to fit the specific needs and goals of educational institutions.
+**Declaration:** We recognize the dangers of using general-purpose AI tools that are not specifically designed for educational contexts. The complexity of such tools, together with the risk of their misuse, undermines the educational process and adds to the background noise that impedes proper cognitive processing. We advocate for the use of AI systems that are tailored to fit the specific needs and goals of educational institutions.
 
 ## Principle 3: Alignment with Didactic Practices
 The deployment of AI in education must be grounded in established didactic practices. Educators need to have a clear understanding of how AI tools will integrate with their instructional design and learning objectives. AI should support teaching methodologies rather than disrupt them.
 
-**Declaration:** We emphasize the need for AI tools to be adaptable to various instructional designs. Whether through specialized interfaces or specific configurations, AI should be a seamless extension of the teaching process, providing support without imposing additional burdens on educators or students.
+**Declaration:** We emphasize the need for AI tools to be adaptable to various instructional designs. Whether through specialized interfaces or specific configurations, AI should be a seamless extension of the teaching-learning process, providing support without imposing additional burdens on educators or students.
 
 ## Principle 4: Accuracy and Minimization of Errors
 Accuracy is paramount in educational contexts. AI systems must prioritize delivering precise and relevant information, especially given the risks of hallucinations and errors inherent in current AI technologies. These risks can be mitigated by deploying AI in narrowly defined application contexts and ensuring that AI tools reference their sources, allowing users to verify the information provided.
@@ -72,5 +72,9 @@ The following individuals and organizations endorse the Safe AI in Education Man
 14. **[Ariadna Llorens]**, [Associate Professor], [Universitat Politècnica de Catalunya]
 15. **[Benjami Villoslada]** [Bitologist, former CIO of Government of Balearic Islands][Founder of Meneame.net and pic.dental]
 16. **[Lucia Garcia-Holgado]** [Postdoctoral Researcher, Universidad de Salamanca]
+17. **[Francesc Torres Torres][Full professor, former Rector],   [Universitat Politècnica de Catalunya]
+18. **[Pere Botella][Full professor],   [Universitat Politècnica de Catalunya]
+19. **[David López Álvarez]**, [Associate Professor], [Universitat Politècnica de Catalunya
+20. **[Maria Pilar Almanjano Pablos]**, [Full Professor ], [Universitat Politècnica de Catalunya]
 
 
