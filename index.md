@@ -80,4 +80,6 @@ The following individuals and organizations endorse the Safe AI in Education Man
 22. **[Frederic Marimon]**, [Full professor][Universitat Internacional de Catalunya]
 23. **[Ramon Marti][Ph. guest lecturer][Universitat Politècnica de Catalunya]
 24. **[Josep Ganyet][CEO, Mortensen.cat][Guest lecturer][Universitat Pompeu Fabra]
+25. **[Roberto Rodríguez Echeverría]**, [Associate Professor], [Universidad de Extremadura]
+
 
