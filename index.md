@@ -4,7 +4,7 @@ title: Safe AI in Education Manifesto
 ---
 
 # Safe AI in Education Manifesto
-version 0.1.2 10 September 2024
+version 0.2.0 10 September 2024
 
 ## Preamble
 
@@ -37,7 +37,7 @@ Accuracy is paramount in educational contexts. AI systems must prioritize delive
 **Declaration:** We demand rigorous quality assessments for AI tools used in education. The reliability of AI systems is non-negotiable, and continuous evaluation is necessary to maintain the integrity of the educational process.
 
 ## Principle 5: Comprehensive Interface and Behavior
-AI systems must have interfaces that are transparent and easily understood by students and educators. The behavior of these systems should clearly communicate their intended use and limitations, avoiding any pretense of infallibility or omniscience.
+AI systems must have interfaces that are transparent and easily understood by students and educators. The behavior of these systems should clearly communicate their intended use and limitations, avoiding any pretense of infallibility or omniscience. AI generated content should be always clearly marked as such.
 
 **Declaration:** We advocate for AI tools that are designed with clarity and honesty at their core. These tools must explicitly convey their limitations and avoid presenting erroneous information with undue confidence. In doing so, they will support a learning environment where students can trust, but also critically assess, the AI's outputs.
 
@@ -45,9 +45,20 @@ AI systems must have interfaces that are transparent and easily understood by st
 
 AI models used in education must be trained in an ethical manner, with a clear commitment to transparency regarding the sources of training data and the methodologies used. It is essential that these models actively work to minimize biases and provide transparency about their training processes, allowing educators and students to understand the limitations and considerations involved in the AI's outputs.
 
+Principle 7: Human Oversight and Accountability
+
+AI tools in education must always complement, not replace, human educators. While AI can assist with administrative tasks like grading or providing feedback, all decision-making processes must remain under human supervision. AI-driven decisions should be explainable, and students must have the right to appeal these decisions through human-led processes. This ensures fairness, maintains the role of teachers as mentors, and protects the integrity of the educational process.
+
+Declaration: We reject the use of AI as a replacement for teachers. Any decisions made by AI, particularly those related to grading and assessment, must be transparent and fully accountable to human oversight. Students must retain the right to appeal AI-driven decisions, which must be evaluated and addressed by human educators. AI's role should be to enhance, not diminish, the human connection essential to education.
+
 **Declaration:** We insist that all AI tools in educational contexts must be developed and deployed with a commitment to ethical standards. This includes openly declaring the sources of training data, ensuring that the models are designed to minimize biases, and providing transparency about the potential limitations inherent in the AI's decision-making processes.
 
 
+Principle 7: Human Oversight and Accountability
+
+AI tools in education must always complement, not replace, human educators. While AI can assist with administrative tasks like grading or providing feedback and personalization, all decision-making processes must remain under human supervision. AI-driven decisions should be explainable, and students must have the right to appeal these decisions through human-led processes. This ensures fairness, maintains the role of teachers as mentors, and protects the integrity of the educational process.
+
+Declaration: We reject the use of AI as a replacement for teachers. Any decisions made by AI, particularly those related to grading and assessment, must be transparent and fully accountable to human oversight. Students must retain the right to appeal AI-driven decisions, which must be evaluated and addressed by human educators. AI's role should be to enhance, not diminish, the human connection essential to education.
 ## Conclusion
 The integration of AI into education is inevitable and holds great potential. However, this integration must be guided by principles that prioritize the well-being, privacy, and educational success of students. The Safe AI in Education Manifesto is a commitment to these principles, ensuring that instututions and educators introduce AI in education in a way that enhances the educational experience without compromising ethical standards or educational integrity.
 
