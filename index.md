@@ -31,7 +31,7 @@ The deployment of AI in education must be grounded in established didactic pract
 
 **Declaration:** We emphasize the need for AI tools to be adaptable to various instructional designs. Whether through specialized interfaces or specific configurations, AI should be a seamless extension of the teaching-learning process, providing support without imposing additional burdens on educators or students.
 
-## Principle 4: Accuracy and Minimization of Errors
+## Principle 4: Accuracy and Explainability
 Accuracy is paramount in educational contexts. AI systems must prioritize delivering precise, explainable and relevant information, especially given the risks of hallucinations and errors inherent in current AI technologies. These risks can be mitigated by deploying AI in narrowly defined application contexts and ensuring that AI tools reference their sources, allowing users to verify the information provided.
 
 **Declaration:** We demand rigorous quality assessments for AI tools used in education. The reliability of AI systems is non-negotiable, and continuous evaluation is necessary to maintain the integrity of the educational process.
