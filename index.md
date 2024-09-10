@@ -45,20 +45,18 @@ AI systems must have interfaces that are transparent and easily understood by st
 
 AI models used in education must be trained in an ethical manner, with a clear commitment to transparency regarding the sources of training data and the methodologies used. It is essential that these models actively work to minimize biases and provide transparency about their training processes, allowing educators and students to understand the limitations and considerations involved in the AI's outputs.
 
-Principle 7: Human Oversight and Accountability
+**Declaration:** We insist that all AI tools in educational contexts must be developed and deployed with a commitment to ethical standards. This includes openly declaring the sources of training data, ensuring that the models are designed to minimize biases, and providing transparency about the potential limitations inherent in the AI's decision-making processes.
+
+## Principle 7: Human Oversight and Accountability
 
 AI tools in education must always complement, not replace, human educators. While AI can assist with administrative tasks like grading or providing feedback, all decision-making processes must remain under human supervision. AI-driven decisions should be explainable, and students must have the right to appeal these decisions through human-led processes. This ensures fairness, maintains the role of teachers as mentors, and protects the integrity of the educational process.
 
-Declaration: We reject the use of AI as a replacement for teachers. Any decisions made by AI, particularly those related to grading and assessment, must be transparent and fully accountable to human oversight. Students must retain the right to appeal AI-driven decisions, which must be evaluated and addressed by human educators. AI's role should be to enhance, not diminish, the human connection essential to education.
-
-**Declaration:** We insist that all AI tools in educational contexts must be developed and deployed with a commitment to ethical standards. This includes openly declaring the sources of training data, ensuring that the models are designed to minimize biases, and providing transparency about the potential limitations inherent in the AI's decision-making processes.
+**Declaration:** We reject the use of AI as a replacement for teachers. Any decisions made by AI, particularly those related to grading and assessment, must be transparent and fully accountable to human oversight. Students must retain the right to appeal AI-driven decisions, which must be evaluated and addressed by human educators. AI's role should be to enhance, not diminish, the human connection essential to education.
 
 
-Principle 7: Human Oversight and Accountability
 
-AI tools in education must always complement, not replace, human educators. While AI can assist with administrative tasks like grading or providing feedback and personalization, all decision-making processes must remain under human supervision. AI-driven decisions should be explainable, and students must have the right to appeal these decisions through human-led processes. This ensures fairness, maintains the role of teachers as mentors, and protects the integrity of the educational process.
 
-Declaration: We reject the use of AI as a replacement for teachers. Any decisions made by AI, particularly those related to grading and assessment, must be transparent and fully accountable to human oversight. Students must retain the right to appeal AI-driven decisions, which must be evaluated and addressed by human educators. AI's role should be to enhance, not diminish, the human connection essential to education.
+
 ## Conclusion
 The integration of AI into education is inevitable and holds great potential. However, this integration must be guided by principles that prioritize the well-being, privacy, and educational success of students. The Safe AI in Education Manifesto is a commitment to these principles, ensuring that instututions and educators introduce AI in education in a way that enhances the educational experience without compromising ethical standards or educational integrity.
 
