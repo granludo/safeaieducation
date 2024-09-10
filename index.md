@@ -4,7 +4,7 @@ title: Safe AI in Education Manifesto
 ---
 
 # Safe AI in Education Manifesto
-version 0.1.1 29 august 2024
+version 0.1.2 10 September 2024
 
 ## Preamble
 
@@ -19,7 +19,7 @@ This is a living document and it will be updated as the community and the techno
 ## Principle 1: Guaranteeing Confidentiality
 We commit to safeguarding the privacy and confidentiality of all student data, including identities, roles, academic records, and interactions. AI systems must be designed and implemented with stringent security measures to protect student information. Educational institutions should either own and operate the technology stack or require strict privacy compliance from AI vendors, ensuring no data is exposed to unauthorized parties.
 
-**Declaration:** We reject the use of free tools that require students to register with third-party services as a mandatory component of their education. Students should retain full control over their personal data, and no educational process should compromise this right.
+**Declaration:** We reject the use of free tools that require students to register with third-party services as a mandatory component of their education. Students should retain full control over their personal data, and the institution needs to ensure that all technologies used in the educational environment are secure, transparent, and under the institution’s direct control. This prevents any compromise to the privacy or rights of students.
 
 ## Principle 2: Alignment with Educational Strategies
 AI tools must be in harmony with the educational strategies and IT governance of the institutions they serve. They should support learning objectives without introducing undue complexity or facilitating unethical practices such as cheating or plagiarism. AI should be a tool that enhances educational outcomes, not one that complicates the learning process.
@@ -49,7 +49,7 @@ AI models used in education must be trained in an ethical manner, with a clear c
 
 
 ## Conclusion
-The integration of AI into education is inevitable and holds great potential. However, this integration must be guided by principles that prioritize the well-being, privacy, and educational success of students. The Safe AI in Education Manifesto is a commitment to these principles, ensuring that AI enhances the educational experience without compromising ethical standards or educational integrity.
+The integration of AI into education is inevitable and holds great potential. However, this integration must be guided by principles that prioritize the well-being, privacy, and educational success of students. The Safe AI in Education Manifesto is a commitment to these principles, ensuring that instututions and educators introduce AI in education in a way that enhances the educational experience without compromising ethical standards or educational integrity.
 
 
 ## Signatories
@@ -81,5 +81,7 @@ The following individuals and organizations endorse the Safe AI in Education Man
 23. **[Ramon Marti][Ph. guest lecturer][Universitat Politècnica de Catalunya]
 24. **[Josep Ganyet][CEO, Mortensen.cat][Guest lecturer][Universitat Pompeu Fabra]
 25. **[Roberto Rodríguez Echeverría]**, [Associate Professor], [Universidad de Extremadura]
+26. **[Carme Fenoll Clarabuch]**, [Director of the area of culture and community][Universitat Politècnica de Catalunya]
+
 
 
