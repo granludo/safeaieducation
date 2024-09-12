@@ -1,5 +1,8 @@
-
-Version 0.1 12 Jan 2024 
+---
+layout: default
+title: Checklist for the Safe AI in Education Manifesto
+---
+Version 0.1 12 Sept 2024 
 
 # AI in Education Integration Checklist
 
