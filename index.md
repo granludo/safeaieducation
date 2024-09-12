@@ -15,6 +15,9 @@ The Safe AI in Education Manifesto establishes the foundational principles that 
 
 This principles are intended to provide a framework to guide educators, educational institutions, developers and AI vendors in their process to decide wether and how AI should be used in education. Although other considerations about AI in education are important, we believe that these principles are relevant and actionable in this context.
 
+The principles in the manifesto have inspired a [Checklist that can be used to evaluate and integrate AI tools in education](https://manifesto.safeaieducation.org/checklist).
+
+
 This is a living document and it will be updated as the community and the technology mature.
 
 ## Principle 1: Human Oversight and Accountability

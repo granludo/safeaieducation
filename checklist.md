@@ -16,7 +16,7 @@ This checklist is designed to be used by educators, technologists, and education
 - **If the tool runs fully or partialy on **cloud-based** infrastructure, the cloud provider:**
   - Is **Certified** for privacy and security compliance?.
   - Has clear **terms of service** that outline data protection responsibilities?
-- **If the AI tool is provided **As a Service** (SaaS)**, the service vendor’s:**
+- **If the AI tool is provided As a Service (SaaS), the service vendor’s:**
   - Acredites **Certifications** for GDPR and FERPA compliance or the applicable privacy regulations?
   - Provides clearly defined **terms of service** that outline data usage, security measures, and responsibilities?
 - **If the tool makes use of Generative AI models via API to AI vendors:**
@@ -27,7 +27,7 @@ This checklist is designed to be used by educators, technologists, and education
   - There are clear **service-level agreements (SLAs)** or **terms of service** in place for vendor APIs, including compliance and QoS guarantees.
   - Are there clear policies for data retention, and can data be securely deleted upon request?
 
-### **Ownership and Control of Data**
+### Ownership and Control of Data
 
 - **The educational institution retains full ownership and control of all personal student data?**
   - Is personal information of students and teachers shared with third parties?
