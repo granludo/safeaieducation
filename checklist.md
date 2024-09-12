@@ -45,6 +45,9 @@ This checklist is designed to be used by educators, technologists, and education
   - Does the tool comply with relevant data protection regulations (e.g., GDPR, FERPA)?
 - [ ] **Data Minimization**  
   - Does the tool collect only the necessary data required for educational purposes?  
+- [ ] **Data Retention and Deletion**  
+  - Are there clear policies for data retention?
+  - Can data be securely deleted upon request?
 
 ## About the Alignment with Educational Goals and Practices
 
@@ -86,7 +89,14 @@ This checklist is designed to be used by educators, technologists, and education
 - [ ] **Scalability**  
   - Can the tool scale to accommodate different class sizes, courses, and institutional needs?
 
-## 7. Support and Training
+## 7. Human Oversight and Accountability
+
+- [ ] **Human Oversight**
+  - Does the tool allow for human oversight of AI-driven decisions?
+- [ ] **Appeal Process**
+  - Is there a clear process for students to appeal AI-driven decisions through human-led processes?
+
+## 8. Support and Training
 
 - [ ] **Vendor Support**  
   - Does the vendor provide sufficient training and support for educators and IT staff?
@@ -94,3 +104,6 @@ This checklist is designed to be used by educators, technologists, and education
   - Does the tool provide ways for users to give feedback or report issues?
 - [ ] **Ongoing Updates and Ethical Compliance**  
   - Is there ongoing monitoring and updating to ensure continued ethical compliance and performance?
+- [ ] **Documentation and Resources**
+  - Are comprehensive documentation and resources available for educators to understand how to effectively and ethically use the tool in their teaching?
+
