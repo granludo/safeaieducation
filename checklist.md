@@ -16,7 +16,7 @@ This checklist is designed to be used by educators, technologists, and education
 - **If the tool runs fully or partialy on **cloud-based** infrastructure, the cloud provider:**
   - Is **Certified** for privacy and security compliance?.
   - Has clear **terms of service** that outline data protection responsibilities?
-- **If the AI tool is provided **As a Service** (SaaS), the service vendor’s:**
+- **If the AI tool is provided **As a Service** (SaaS)**, the service vendor’s:**
   - Acredites **Certifications** for GDPR and FERPA compliance or the applicable privacy regulations?
   - Provides clearly defined **terms of service** that outline data usage, security measures, and responsibilities?
 - **If the tool makes use of Generative AI models via API to AI vendors:**
@@ -27,27 +27,22 @@ This checklist is designed to be used by educators, technologists, and education
   - There are clear **service-level agreements (SLAs)** or **terms of service** in place for vendor APIs, including compliance and QoS guarantees.
   - Are there clear policies for data retention, and can data be securely deleted upon request?
 
-- [ ] **Ownership and Control of Data**  
-  - [ ] The interactions of students with the AI Educational Tool are protected by the AI vendor's terms of service and service-level agreements (SLAs).
-    - The educational institution retains full ownership and control of all personal student data?
-    - If a third party AI vendor is used, are the student interactions with the AI Educational Tool protected by the AI vendor's terms of service and service-level agreements (SLAs)?
-    - Are strict access controls in place to ensure only authorized personnel can access student data?
-  - [ ] The educational institution is responsible and retains full ownership and control of student and teacher authentication and access to the tool.
-    - The tool does not require students to register with external services.
-  - [ ] Are student personal information and interactions with the tool encrypted both at rest and during transmission?
-- [ ] **User Awareness of Data Processing**  
-  - Does the interface clearly inform users about how their data is being processed and used?
+### **Ownership and Control of Data**
+
+- **The educational institution retains full ownership and control of all personal student data?**
+  - Is personal information of students and teachers shared with third parties?
+- **The educational institution retains full ownership and control of all interactions of students and teachers with the AI Educational Tool?**
+  - If a third party AI vendor is used, are the student interactions with the AI Educational Tool protected by the AI vendor's terms of service and service-level agreements (SLAs)?
+  - Are student personal information and interactions with the tool encrypted both at rest and during transmission?
+- **The educational institution is responsible and retains full ownership and control of student and teacher authentication and access to the tool**.
+  - Does the AI Educational Tool require students to register with external services ?
+- **Is the user informed about how their data is being processed and used?**  
   - If the tool gathers data from students, does it provide clear information about the types of data collected and how it will be used?
-- [ ] **Research Use of Log Data**  
-  - If the tool logs are to be used for research purposes, does it provide clear information about the types of data that will be logged and how it will be used?
-  - Permission to use the log data for research purposes is obtained from the institution and the students.
-- [ ] **Compliance with Privacy Laws**  
-  - Does the tool comply with relevant data protection regulations (e.g., GDPR, FERPA)?
-- [ ] **Data Minimization**  
-  - Does the tool collect only the necessary data required for educational purposes?  
-- [ ] **Data Retention and Deletion**  
-  - Are there clear policies for data retention?
-  - Can data be securely deleted upon request?
+- **Research Use of Log Data**  
+  - If the tool logs are to be used for research purposes, does it provide clear information about the types of data gathered, the purpose of the research and the benefits to education?
+  - Is permission to use the log data for research purposes obtained from the institution and the students?
+- **Does the tool collect only the necessary data required for educational purposes?** 
+- **Can data be securely deleted upon request by the students?**
 
 ## About the Alignment with Educational Goals and Practices
 
