@@ -1,5 +1,5 @@
 
-Version 0.1 12 Gen 2024 
+Version 0.1 12 Jan 2024 
 
 # AI in Education Integration Checklist
 
@@ -13,7 +13,7 @@ This checklist is designed to be used by educators, technologists, and education
 
 - **Does the institution own and control the entire technology stack of the AI Educational Tool?**
   - If the tool runs **on-premises** infrastructure, does the institution fully owns and manages all infrastructure and is responsible for maintaining compliance with privacy regulations (GDPR (Europe) and FERPA (USA)).?
-- **If the tool runs fully or partialy on **cloud-based** infrastructure, the cloud provider:**
+- **If the tool runs fully or partialy on cloud-based infrastructure, the cloud provider:**
   - Is **Certified** for privacy and security compliance?.
   - Has clear **terms of service** that outline data protection responsibilities?
 - **If the AI tool is provided As a Service (SaaS), the service vendor’s:**
@@ -81,7 +81,7 @@ This checklist is designed to be used by educators, technologists, and education
 ### About the integration of the AI Educational Tool in the institution's technology strategy
 
 - **Can the tool authenticate users against the institution's information system?**
-- **Is the AI tool compatible with the institution’s existing educational technologies ?** (e.g., LMS, lybrary systems, learning porfolios)?
+- **Is the AI tool compatible with the institution’s existing educational technologies ?** (e.g., LMS, library systems, learning portfolios)?
 - **Can the tool be fully integrated into the institution's technology stack without reliance on external infrastructure?**
 - **Can the tool scale to accommodate different class sizes, courses, and institutional needs?**
 - **Do we have a clear understaning of the costs of running the tool and how they scale with the number of students and the use they get out of the tool?**  
