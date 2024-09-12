@@ -1,5 +1,5 @@
 
-**DRAFT not for publication yet**
+Version 0.1 12 Gen 2024 
 
 # AI in Education Integration Checklist
 
@@ -41,7 +41,7 @@ This checklist is designed to be used by educators, technologists, and education
 - **Research Use of Log Data**  
   - If the tool logs are to be used for research purposes, does it provide clear information about the types of data gathered, the purpose of the research and the benefits to education?
   - Is permission to use the log data for research purposes obtained from the institution and the students?
-- **Does the tool collect only the necessary data required for educational purposes?** 
+- **Does the tool collect only the necessary data required for educational purposes?**
 - **Can data be securely deleted upon request by the students?**
 
 ## 2. About ethics and alignment with educational goals and practices
@@ -76,29 +76,20 @@ This checklist is designed to be used by educators, technologists, and education
 - **Does the vendor, or open source community, demonstrate a commitment to ethical AI development, specially in education?**
 - **Are users informed about the limitations of the AI tool based on its training data and design?**
 
-## 6. Integration and Compatibility
+## About the integration of the AI Educational Tool in the institution
 
-- [ ] **Compatibility with Existing Systems**  
-  - Is the AI tool compatible with the institution’s existing technology infrastructure (e.g., LMS, educational software)?
-- [ ] **Technology Stack Integration**  
-  - Can the tool be fully integrated into the institution's technology stack without reliance on external infrastructure?
-- [ ] **Scalability**  
-  - Can the tool scale to accommodate different class sizes, courses, and institutional needs?
+### About the integration of the AI Educational Tool in the institution's technology strategy
 
-## 7. Human Oversight and Accountability
+- **Can the tool authenticate users against the institution's information system?**
+- **Is the AI tool compatible with the institution’s existing educational technologies ?** (e.g., LMS, lybrary systems, learning porfolios)?
+- **Can the tool be fully integrated into the institution's technology stack without reliance on external infrastructure?**
+- **Can the tool scale to accommodate different class sizes, courses, and institutional needs?**
+- **Do we have a clear understaning of the costs of running the tool and how they scale with the number of students and the use they get out of the tool?**  
 
-- [ ] **Human Oversight**
-  - Does the tool allow for human oversight of AI-driven decisions?
-- [ ] **Appeal Process**
-  - Is there a clear process for students to appeal AI-driven decisions through human-led processes?
+### About the integration of the AI Educational Tool in the institution's learning and teaching strategies
 
-## 8. Support and Training
-
-- [ ] **Vendor Support**  
-  - Does the vendor provide sufficient training and support for educators and IT staff?
-- [ ] **Feedback Mechanisms**  
-  - Does the tool provide ways for users to give feedback or report issues?
-- [ ] **Ongoing Updates and Ethical Compliance**  
-  - Is there ongoing monitoring and updating to ensure continued ethical compliance and performance?
-- [ ] **Documentation and Resources**
-  - Are comprehensive documentation and resources available for educators to understand how to effectively and ethically use the tool in their teaching?
+- **Do we have a clear understandiong ow how the tool is going to be used within the context of the courses inside and outside of the classroom?**
+- **Do we have clear what are the boundaries of access and use to the tool?** 
+- **Are there plans in place to train students to use the tool ethically and critically?**
+- **Are there specific proposals and iniciatives to integrate the tool in learning activities?**
+- **Have we identified best practices and proven innovations involving the application of the tool?** 
