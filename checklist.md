@@ -3,7 +3,7 @@ Version 0.1 12 Jan 2024
 
 # AI in Education Integration Checklist
 
-This checklist is designed to guide the evaluation and integration of AI tools in educational settings, ensuring they align with the principles of the Safe AI in Education Manifesto.
+This checklist is designed to guide the evaluation and integration of AI tools in educational settings, ensuring they align with the principles of the [Safe AI in Education Manifesto](https://manifesto.safeaieducation.org/).
 
 This checklist is designed to be used by educators, technologists, and educational institutions to evaluate and integrate AI tools in education.
 
