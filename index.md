@@ -7,6 +7,8 @@ title: Safe AI in Education Manifesto
 
 version 0.3.0 12 September 2024
 
+If you want so sign the manifesto, please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSeNWtOXgnCVYtbCUH7-LGIZCkh9pKkBiN1srctzAGsS-aHw9Q/viewform?pli=1).
+
 ## Preamble
 
 In the rapidly evolving landscape of education, Artificial Intelligence (AI) offers great prospects for improving learning experiences, streamline administrative tasks, and support both students and educators. However, with these advances come significant responsibilities.
@@ -67,6 +69,8 @@ AI models used in education must be trained in an ethical manner, with a clear c
 The integration of AI into education is inevitable and holds great potential. However, this integration must be guided by principles that prioritize the well-being, privacy, and educational success of students. The Safe AI in Education Manifesto is a commitment to these principles, ensuring that instututions and educators introduce AI in education in a way that enhances the educational experience without compromising ethical standards or educational integrity.
 
 ## Signatories
+
+If you want so sign the manifesto, please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSeNWtOXgnCVYtbCUH7-LGIZCkh9pKkBiN1srctzAGsS-aHw9Q/viewform?pli=1).
 
 The following individuals and organizations endorse the Safe AI in Education Manifesto and commit to upholding its principles:
 
