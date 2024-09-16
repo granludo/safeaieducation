@@ -102,3 +102,5 @@ The following individuals and organizations endorse the Safe AI in Education Man
 26. **[Roberto Rodríguez Echeverría]**, [Associate Professor], [Universidad de Extremadura]
 27. **[Carme Fenoll Clarabuch]**, [Director of the area of culture and community][Universitat Politècnica de Catalunya]
 28. **[Mar Carrió Llach]**, [Associate Professor][Director of the Institute of Sicences of Education, UPC], [Universitat Politècica de Catalunya]
+29. **[Alberto Prieto]**, [Emeritus Professor], [Universidad de Granada]
+30.**[Antonio Vallecillo]**, [Full Professor], [Universidad de Malaga]
