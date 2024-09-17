@@ -10,111 +10,111 @@ This checklist is designed to guide the evaluation and integration of AI tools i
 
 This checklist is designed to be used by educators, technologists, and educational institutions to evaluate and integrate AI tools in education.
 
-## 1 About the AI learning tool, its data and how it is processed  
+## 1. About the AI learning tool, its data, and how it is processed  
 
-###  Ownership and Control of Technology Stack of the AI Educational Tool
+### Ownership and Control of the Technology Stack of the AI Educational Tool
 
-- **Does the institution own and control the entire technology stack of the AI Educational Tool?**
-  - If the tool runs **on-premises** infrastructure, does the institution fully owns and manages all infrastructure and is responsible for maintaining compliance with privacy regulations (GDPR (Europe) and FERPA (USA)).?
-- **If the tool runs fully or partialy on cloud-based infrastructure, the cloud provider:**
-  - Is **Certified** for privacy and security compliance?.
-  - Has clear **terms of service** that outline data protection responsibilities?
-- **If the AI tool is provided As a Service (SaaS), the service vendor’s:**
-  - Acredites **Certifications** for GDPR and FERPA compliance or the applicable privacy regulations?
-  - Provides clearly defined **terms of service** that outline data usage, security measures, and responsibilities?
+- **Does the institution own and control the entire technology stack of the AI educational tool?**
+  - If the tool runs on **on-premises** infrastructure, does the institution fully own and manage all infrastructure and is it responsible for maintaining compliance with privacy regulations (GDPR (Europe) and FERPA (USA))?
+- **If the tool runs fully or partially on cloud-based infrastructure, is the cloud provider:**
+  - **Certified** for privacy and security compliance?
+  - Does it have clear **terms of service** that outline data protection responsibilities?
+- **If the AI tool is provided as a Service (SaaS), does the service vendor:**
+  - Accredit **Certifications** for GDPR and FERPA compliance or applicable privacy regulations?
+  - Provide clearly defined **terms of service** that outline data usage, security measures, and responsibilities?
 - **If the tool makes use of Generative AI models via API to AI vendors:**
-  - Are all communication between the tool and the AI vendor encrypted?.  
-  - Is it assured that no personal information is sent to AI Models?.
-  - Acredites **Certifications** for GDPR and FERPA compliance or the applicable privacy regulations?
-  - Do terms of service ensure that data shared with vendors will not be used for other purposes than the provision of the generative models?
-  - There are clear **service-level agreements (SLAs)** or **terms of service** in place for vendor APIs, including compliance and QoS guarantees.
+  - Are all communications between the tool and the AI vendor encrypted?  
+  - Is it ensured that no personal information is sent to AI models?
+  - Accredit **Certifications** for GDPR and FERPA compliance or applicable privacy regulations?
+  - Do terms of service ensure that data shared with vendors will not be used for purposes other than the provision of the generative models?
+  - Are there clear **service-level agreements (SLAs)** or **terms of service** in place for vendor APIs, including compliance and QoS guarantees?
   - Are there clear policies for data retention, and can data be securely deleted upon request?
 
 ### Ownership and Control of Data
 
-- **The educational institution retains full ownership and control of all personal student data?**
+- **Does the educational institution retain full ownership and control of all personal student data?**
   - Is personal information of students and teachers shared with third parties?
-- **The educational institution retains full ownership and control of all interactions of students and teachers with the AI Educational Tool?**
-  - If a third party AI vendor is used, are the student interactions with the AI Educational Tool protected by the AI vendor's terms of service and service-level agreements (SLAs)?
-  - Are student personal information and interactions with the tool encrypted both at rest and during transmission?
-- **The educational institution is responsible and retains full ownership and control of student and teacher authentication and access to the tool**.
-  - Does the AI Educational Tool require students to register with external services ?
+- **Does the educational institution retain full ownership and control of all interactions of students and teachers with the AI educational tool?**
+  - If a third-party AI vendor is used, are student interactions with the AI educational tool protected by the AI vendor's terms of service and service-level agreements (SLAs)?
+  - Are students' personal information and interactions with the tool encrypted both at rest and during transmission?
+- **Is the educational institution responsible for and retaining full ownership and control of student and teacher authentication and access to the tool?**
+  - Does the AI educational tool require students to register with external services?
 - **Is the user informed about how their data is being processed and used?**  
   - If the tool gathers data from students, does it provide clear information about the types of data collected and how it will be used?
 - **Research Use of Log Data**  
-  - If the tool logs are to be used for research purposes, does it provide clear information about the types of data gathered, the purpose of the research and the benefits to education?
+  - If the tool logs are to be used for research purposes, does it provide clear information about the types of data gathered, the purpose of the research, and the benefits to education?
   - Is permission to use the log data for research purposes obtained from the institution and the students?
 - **Does the tool collect only the necessary data required for educational purposes?**
 - **Can data be securely deleted upon request by the students?**
 
 ## 2. About ethics and alignment with educational goals and practices
 
-### How does the AI Tool fits in the educational context
+### How does the AI tool fit in the educational context?
 
 - **Does the AI tool complement, rather than replace, human educators?**
-  - If the AI tool assist with administrative tasks like grading or providing feedback, can the AI decisions be validated?
+  - If the AI tool assists with administrative tasks like grading or providing feedback, can the AI decisions be validated?
   - Do all decision-making processes remain under human supervision?
   - Are AI-driven decisions explainable?
 - **Are there clear and easy processes for students to appeal AI-driven decisions to humans?**
   - Does the implementation of the AI tool increase fairness in the educational process?
 - **Is the tool specifically designed for educational use, aligning with established teaching methodologies and didactic models?**
 
-### About Generated content disclosure and explainability
+### About Generated Content Disclosure and Explainability
 
 - **Disclosure of content generated by AI**
-  - Does the tool make it clear for students and teachers what content is generated by AI.
+  - Does the tool make it clear to students and teachers what content is generated by AI?
   - Are strategies for signaling that generated content is AI-generated, like digital watermarking or other techniques, implemented?
 - **Does the tool explain and provide sources of information used to generate content?**
-  - Are this sources of information made available to educators and students for verification and study?
+  - Are these sources of information made available to educators and students for verification and study?
 
-### About Control and alignment of AI models
+### About Control and Alignment of AI Models
 
 - **Are the AI models aligned with the educational goals and values of the institution?**
-  - Is the original training dataset o the AI models used known and transparent?
+  - Is the original training dataset of the AI models used known and transparent?
   - Can the educational institution control the alignment and the parameters of the AI models?
-    - Yes, the AI models used by the tool can be fine-tuned with custom data, knowledge and educational resources of the institution.
-    -Yes, the tool allows for the integration of custom data, knowledge and educational resources of the institution in practices like prompt engineering, retrieval augmented genration(RAG), tool usage, and other techniques using resources under the control of the institution.
-- **Have been taken steps to identify and minimize biases in the tool outputs?**
+    - Yes, the AI models used by the tool can be fine-tuned with custom data, knowledge, and educational resources of the institution.
+    - Yes, the tool allows for the integration of custom data, knowledge, and educational resources of the institution in practices like prompt engineering, retrieval-augmented generation (RAG), tool usage, and other techniques using resources under the control of the institution.
+- **Have steps been taken to identify and minimize biases in the tool's outputs?**
   - Does the tool clearly indicate when outputs might be limited or biased due to gaps in training data?
-- **Does the vendor, or open source community, demonstrate a commitment to ethical AI development, specially in education?**
+- **Does the vendor, or open source community, demonstrate a commitment to ethical AI development, especially in education?**
 - **Are users informed about the limitations of the AI tool based on its training data and design?**
 
-## 3. About the integration of the AI Educational Tool in the institution
+## 3. About the integration of the AI educational tool in the institution
 
-### About the integration of the AI Educational Tool in the institution's technology strategy
+### About the integration of the AI educational tool in the institution's technology strategy
 
-- **Is the tool aligned with the educational institution digital strategy and governance?**
+- **Is the tool aligned with the educational institution's digital strategy and governance?**
   - Can the tool authenticate users (login) against the institution's authentication system?
   - Can the institution manage the access and permissions of the tool?
-  - Is the AI tool compatible with the institution’s existing educational technologies ?** (e.g., LMS, library systems, learning portfolios)?
+  - Is the AI tool compatible with the institution’s existing educational technologies?** (e.g., LMS, library systems, learning portfolios)?
 - **Can the tool scale to accommodate different class sizes, courses, and institutional needs?**
-  - Do we have a clear understaning of the costs of running the tool and how they scale in relationship to the number of students and the use they get out of the tool?  
+  - Do we have a clear understanding of the costs of running the tool and how they scale in relation to the number of students and the use they get out of the tool?  
 
-### About the integration of the AI Educational Tool in the institution's learning and teaching strategies
+### About the integration of the AI educational tool in the institution's learning and teaching strategies
 
 - **Does the tool align with the institution's learning and teaching strategies?**
-  - Do we have a clear understandiong ow how the tool is going to be used within the context of the courses inside and outside of the classroom?
-  - Do we have a set plan for the boundaries of access and use to the tool?
+  - Do we have a clear understanding of how the tool is going to be used within the context of the courses inside and outside of the classroom?
+  - Do we have a set plan for the boundaries of access and use of the tool?
 - **Have we identified the risks of using the tool in the institution?**
   - Have we identified what part of the learning process needs to be protected from the use of the tool?
   - Have we identified what part of the learning process can be improved by the use of the tool, and how?
 - **Do we have a list of best practices for the use of the tool in the institution?**
-  - Do we have a training program for teachers about how to integrate the tool in their teaching?
+  - Do we have a training program for teachers on how to integrate the tool into their teaching?
   - Do we have the necessary support for teachers to use the tool in their teaching?
   - Do we have an evaluation strategy for the performance of the tool in improving teaching and learning?
-- **Are there specific proposals and iniciativas to integrate the tool in learning activities?**
-  - Have we ideentified early adopters for the tool in the institution? How can they be supported and involved in the process?
+- **Are there specific proposals and initiatives to integrate the tool into learning activities?**
+  - Have we identified early adopters for the tool in the institution? How can they be supported and involved in the process?
 - **Have we identified possible bad practices involving the AI tool?**
   - Do we have strategies to prevent and detect plagiarism using the tool? How effective are they?
   - Do we have strategies to prevent and detect cheating using the tool?
   - Do we have strategies to prevent and detect harassment and discrimination using the tool?
-- **If a user is flagged of a bad practice using AI, what are the procedures to follow?**
+- **If a user is flagged for a bad practice using AI, what are the procedures to follow?**
   - Can the user present allegations of false positives to human evaluators?
 
-### About the integration of the AI Educational Tool in the institution's culture
+### About the integration of the AI educational tool in the institution's culture
 
 - **Is it clear that the use of AI is not a replacement for human educators, but a tool to enhance their work?**
   - Is this communicated clearly to the teachers and students and in the user interface of the tool?
 - **Do we have a training strategy about the use of AI?**
-  - Are there plans in place to train students to use of AI ethically and critically?
-  - Are there plans in place to train teachers to use of AI ethically and critically?
+  - Are there plans in place to train students on the ethical and critical use of AI?
+  - Are there plans in place to train teachers on the ethical and critical use of AI?
