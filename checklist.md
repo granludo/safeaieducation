@@ -79,7 +79,7 @@ This checklist is designed to be used by educators, technologists, and education
 - **Does the vendor, or open source community, demonstrate a commitment to ethical AI development, specially in education?**
 - **Are users informed about the limitations of the AI tool based on its training data and design?**
 
-## About the integration of the AI Educational Tool in the institution
+## 3. About the integration of the AI Educational Tool in the institution
 
 ### About the integration of the AI Educational Tool in the institution's technology strategy
 
