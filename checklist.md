@@ -2,7 +2,7 @@
 layout: default
 title: Checklist for the Safe AI in Education Manifesto
 ---
-Version 0.1 12 Sept 2024 
+Version 0.2 17 Sept 2024 
 
 # AI in Education Integration Checklist
 
@@ -83,16 +83,38 @@ This checklist is designed to be used by educators, technologists, and education
 
 ### About the integration of the AI Educational Tool in the institution's technology strategy
 
-- **Can the tool authenticate users against the institution's information system?**
-- **Is the AI tool compatible with the institution’s existing educational technologies ?** (e.g., LMS, library systems, learning portfolios)?
-- **Can the tool be fully integrated into the institution's technology stack without reliance on external infrastructure?**
+- **Is the tool aligned with the educational institution digital strategy and governance?**
+  - Can the tool authenticate users (login) against the institution's authentication system?
+  - Can the institution manage the access and permissions of the tool?
+  - Is the AI tool compatible with the institution’s existing educational technologies ?** (e.g., LMS, library systems, learning portfolios)?
 - **Can the tool scale to accommodate different class sizes, courses, and institutional needs?**
-- **Do we have a clear understaning of the costs of running the tool and how they scale with the number of students and the use they get out of the tool?**  
+  - Do we have a clear understaning of the costs of running the tool and how they scale in relationship to the number of students and the use they get out of the tool?  
 
 ### About the integration of the AI Educational Tool in the institution's learning and teaching strategies
 
-- **Do we have a clear understandiong ow how the tool is going to be used within the context of the courses inside and outside of the classroom?**
-- **Do we have clear what are the boundaries of access and use to the tool?** 
-- **Are there plans in place to train students to use the tool ethically and critically?**
-- **Are there specific proposals and iniciatives to integrate the tool in learning activities?**
-- **Have we identified best practices and proven innovations involving the application of the tool?** 
+- **Does the tool align with the institution's learning and teaching strategies?**
+  - Do we have a clear understandiong ow how the tool is going to be used within the context of the courses inside and outside of the classroom?
+  - Do we have a set plan for the boundaries of access and use to the tool?
+- **Have we identified the risks of using the tool in the institution?**
+  - Have we identified what part of the learning process needs to be protected from the use of the tool?
+  - Have we identified what part of the learning process can be improved by the use of the tool, and how?
+- **Do we have a list of best practices for the use of the tool in the institution?**
+  - Do we have a training program for teachers about how to integrate the tool in their teaching?
+  - Do we have the necessary support for teachers to use the tool in their teaching?
+  - Do we have an evaluation strategy for the performance of the tool in improving teaching and learning?
+- **Are there specific proposals and iniciativas to integrate the tool in learning activities?**
+  - Have we ideentified early adopters for the tool in the institution? How can they be supported and involved in the process?
+- **Have we identified possible bad practices involving the AI tool?**
+  - Do we have strategies to prevent and detect plagiarism using the tool? How effective are they?
+  - Do we have strategies to prevent and detect cheating using the tool?
+  - Do we have strategies to prevent and detect harassment and discrimination using the tool?
+- **If a user is flagged of a bad practice using AI, what are the procedures to follow?**
+  - Can the user present allegations of false positives to human evaluators?
+
+### About the integration of the AI Educational Tool in the institution's culture
+
+- **Is it clear that the use of AI is not a replacement for human educators, but a tool to enhance their work?**
+  - Is this communicated clearly to the teachers and students and in the user interface of the tool?
+- **Do we have a training strategy about the use of AI?**
+  - Are there plans in place to train students to use of AI ethically and critically?
+  - Are there plans in place to train teachers to use of AI ethically and critically?
