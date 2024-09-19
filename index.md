@@ -110,3 +110,5 @@ The following individuals and organizations endorse the Safe AI in Education Man
 34. **[Ángel-Luis García-Fernández]**, [Associate Professor], [University of Jaén]  
 35. **[Francisco Pascual Romero Chicharro]**, [Associate Professor], [Universidad de Castilla La Mancha]  
 36. **[Lourdes Satorre]**, [Guest Lecturer], [Universidad de Alicante]
+37. **[Juan Carlos Pérez Beneyto]**, [Associate Professor], [Universidad de Alicante]
+38. **[Carlos J. Villagrá Arnedo]**, [Associate Professor], [Universidad de Alicante]
