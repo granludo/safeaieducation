@@ -9,6 +9,27 @@ version 0.3.0 12 September 2024
 
 If you want so sign the manifesto, please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSeNWtOXgnCVYtbCUH7-LGIZCkh9pKkBiN1srctzAGsS-aHw9Q/viewform?pli=1).
 
+# Table of Contents
+
+[Preamble](#preamble)
+
+- [Principle 1: Human Oversight and Accountability](#principle-1-human-oversight-and-accountability)
+- [Principle 2: Guaranteeing Confidentiality](#principle-2-guaranteeing-confidentiality)
+- [Principle 3: Alignment with Educational Strategies](#principle-3-alignment-with-educational-strategies)
+- [Principle 4: Alignment with Didactic Practices](#principle-4-alignment-with-didactic-practices)
+- [Principle 5: Accuracy and Explainability](#principle-5-accuracy-and-explainability)
+- [Principle 6: Comprehensive Interface and Behavior](#principle-6-comprehensive-interface-and-behavior)
+- [Principle 7: Ethical Training and Transparency](#principle-7-ethical-training-and-transparency)
+
+[Conclusion](#conclusion)
+
+[Authored by](#authored-by)
+
+[Signatories](#signatories)
+
+[How to cite the Safe AI in Education Manifesto](#how-to-cite-the-safe-ai-in-education-manifesto)
+
+
 ## Preamble
 
 In the rapidly evolving landscape of education, Artificial Intelligence (AI) offers great prospects for improving learning experiences, streamline administrative tasks, and support both students and educators. However, with these advances come significant responsibilities.
@@ -73,8 +94,8 @@ The integration of AI into education holds great potential. However, this integr
 
 ## Authored by
 
-Marc Alier Forment, Francisco Garcia Peñalvo, Maria José Casañ Guerrero, Juan Antonio Pereira and  Faraón Llorens Largo. 
-With contributions from Roberto Rodríguez Echeverría, Maria Pilar Almanjano Pablos, Antoni Hernández-Fernández.
+Marc Alier Forment, Francisco Garcia Peñalvo, Maria José Casañ Guerrero, Juan Antonio Pereira and Faraón Llorens Largo. 
+With additional insights from Roberto Rodríguez Echeverría, Ramón Martí, Maria Pilar Almanjano Pablos, Antoni Hernández-Fernández.
 
 ## Signatories
 
@@ -123,3 +144,23 @@ The following individuals and organizations endorse the Safe AI in Education Man
 38. **[Carlos J. Villagrá Arnedo]**, [Associate Professor], [Universidad de Alicante]
 39. **[Sergio Arjona]**, [Associate Professor], [Universidad de Alicante]
 40. **[Antoni Hernández-Fernández]**, [Associate Professor], [Institut Ciències de l'Educació, Universitat Politècnica de Catalunya]
+
+## How to cite the Safe AI in Education Manifesto
+
+### APA Style:
+**In-text citation**: (Alier Forment et al., 2024)
+
+**Reference list**:
+Alier Forment, M., Garcia Peñalvo, F., Casañ Guerrero, M. J., Pereira, J. A., & Llorens Largo, F. (2024, September 12). *Safe AI in Education Manifesto* (Version 0.3.0). *Safe AI in Education Manifesto*. https://manifesto.safeaieducation.org
+
+### MLA Style:
+**In-text citation**: (Alier Forment et al.)
+
+**Works Cited**:
+Alier Forment, Marc, et al. *Safe AI in Education Manifesto*. Version 0.3.0, 12 Sept. 2024, https://manifesto.safeaieducation.org.
+
+### Chicago Style:
+**In-text citation**: (Alier Forment et al. 2024)
+
+**Bibliography**:
+Alier Forment, Marc, Francisco Garcia Peñalvo, Maria José Casañ Guerrero, Juan Antonio Pereira, and Faraón Llorens Largo. *Safe AI in Education Manifesto*. Version 0.3.0, September 12, 2024. https://manifesto.safeaieducation.org.
