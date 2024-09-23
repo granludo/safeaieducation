@@ -4,6 +4,7 @@ title: Checklist for the Safe AI in Education Manifesto
 author: Marc Alier, Francisco Garcia-Peñalvo, Maria José Casañ, Juanan Pereira and Faraon Llorens.
 ---
 Version 0.2.1 17 Sept 2024 
+by: Marc Alier, Francisco Garcia-Peñalvo, Maria José Casañ, Juanan Pereira and Faraon Llorens.
 
 # AI in Education Integration Checklist
 
