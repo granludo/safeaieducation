@@ -70,6 +70,12 @@ AI models used in education must be trained in an ethical manner, with a clear c
 
 The integration of AI into education holds great potential. However, this integration must be guided by principles that prioritize the well-being, privacy, and educational success of students. The Safe AI in Education Manifesto is a commitment to these principles, ensuring that instututions and educators introduce AI in education in a way that enhances the educational experience without compromising ethical standards or educational integrity.
 
+
+## Authored by
+
+Marc Alier Forment, Francisco Garcia Peñalvo, Maria José Casañ Guerrero, Juan Antonio Pereira and  Faraón Llorens Largo. 
+With contributions from Roberto Rodríguez Echeverría, Maria Pilar Almanjano Pablos, Antoni Hernández-Fernández.
+
 ## Signatories
 
 If you want so sign the manifesto, please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSeNWtOXgnCVYtbCUH7-LGIZCkh9pKkBiN1srctzAGsS-aHw9Q/viewform?pli=1).
