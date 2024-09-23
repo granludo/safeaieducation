@@ -15,7 +15,9 @@ In the rapidly evolving landscape of education, Artificial Intelligence (AI) off
 
 The Safe AI in Education Manifesto establishes the foundational principles that ensure AI is deployed in educational settings in a manner that is ethical, secure, and aligned with the core objectives of education.
 
-This principles are intended to provide a framework to guide educators, educational institutions, developers and AI vendors in their process to decide wether and how AI should be used in education. Although other considerations about AI in education are important, we believe that these principles are relevant and actionable in this context.
+These principles are grounded in the belief that AI should always be at the service of people, enhancing human capabilities rather than replacing them. AI should act as a tool that empowers students, educators, and institutions to achieve their full potential while preserving the human-centric nature of education.
+
+These principles are intended to provide a framework to guide educators, educational institutions, developers and AI vendors in their process to decide wether and how AI should be used in education. Although other considerations about AI in education are important, we believe that these principles are relevant and actionable in this context.
 
 The principles in the manifesto have inspired a [Checklist that can be used to evaluate and integrate AI tools in education](https://manifesto.safeaieducation.org/checklist).
 
