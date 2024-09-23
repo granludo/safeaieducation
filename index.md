@@ -116,3 +116,4 @@ The following individuals and organizations endorse the Safe AI in Education Man
 37. **[Juan Carlos Pérez Beneyto]**, [Associate Professor], [Universidad de Alicante]
 38. **[Carlos J. Villagrá Arnedo]**, [Associate Professor], [Universidad de Alicante]
 39. **[Sergio Arjona]**, [Associate Professor], [Universidad de Alicante]
+40. **[Antoni Hernández-Fernández]**, [Associate Professor], [Institut Ciències de l'Educació, Universitat Politècnica de Catalunya]
