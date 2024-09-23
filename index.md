@@ -66,7 +66,7 @@ AI models used in education must be trained in an ethical manner, with a clear c
 
 ## Conclusion
 
-The integration of AI into education is inevitable and holds great potential. However, this integration must be guided by principles that prioritize the well-being, privacy, and educational success of students. The Safe AI in Education Manifesto is a commitment to these principles, ensuring that instututions and educators introduce AI in education in a way that enhances the educational experience without compromising ethical standards or educational integrity.
+The integration of AI into education holds great potential. However, this integration must be guided by principles that prioritize the well-being, privacy, and educational success of students. The Safe AI in Education Manifesto is a commitment to these principles, ensuring that instututions and educators introduce AI in education in a way that enhances the educational experience without compromising ethical standards or educational integrity.
 
 ## Signatories
 
