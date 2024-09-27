@@ -144,6 +144,11 @@ The following individuals and organizations endorse the Safe AI in Education Man
 38. **[Carlos J. Villagrá Arnedo]**, [Associate Professor], [Universidad de Alicante]
 39. **[Sergio Arjona]**, [Associate Professor], [Universidad de Alicante]
 40. **[Antoni Hernández-Fernández]**, [Associate Professor], [Institut Ciències de l'Educació, Universitat Politècnica de Catalunya]
+41. **[Elvira G. Rincón Flores]**, [Institute for the Future of Education], [Tecnologico de Monterrey]
+42. **[Antonio Martí-Campoy]**, [Associate Professor], [Universitat Politècnica de València]
+43. **[Ramon Bragós]**, [Full Professor], [Universitat Politècnica de Catalunya]
+44. **[Pedro J. Lara Bercial]**, [School Vicedean], [Universidad Europea de Madrid]
+
 
 ## How to cite the Safe AI in Education Manifesto
 
