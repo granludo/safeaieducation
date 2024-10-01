@@ -148,6 +148,8 @@ The following individuals and organizations endorse the Safe AI in Education Man
 42. **[Antonio Martí-Campoy]**, [Associate Professor], [Universitat Politècnica de València]
 43. **[Ramon Bragós]**, [Full Professor], [Universitat Politècnica de Catalunya]
 44. **[Pedro J. Lara Bercial]**, [School Vicedean], [Universidad Europea de Madrid]
+45. **[Andoni Eguíluz Morán]**, [Researcher & Professor], [Universidad de Deusto]
+46. **[Maider Azanza]**, [Associate Professor], [Universidad del Pais Vasco/Euskal Herriko Unibertsitatea]
 
 
 ## How to cite the Safe AI in Education Manifesto
