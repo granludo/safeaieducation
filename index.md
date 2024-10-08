@@ -5,7 +5,7 @@ title: Safe AI in Education Manifesto
 
 # Safe AI in Education Manifesto
 
-version 0.3.0 12 September 2024
+version 0.4.0 8 October 2024
 
 If you want so sign the manifesto, please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSeNWtOXgnCVYtbCUH7-LGIZCkh9pKkBiN1srctzAGsS-aHw9Q/viewform?pli=1).
 
@@ -40,8 +40,9 @@ These principles are grounded in the belief that AI should always be at the serv
 
 These principles are intended to provide a framework to guide educators, educational institutions, developers and AI vendors in their process to decide wether and how AI should be used in education. Although other considerations about AI in education are important, we believe that these principles are relevant and actionable in this context.
 
-The principles in the manifesto have inspired a [Checklist that can be used to evaluate and integrate AI tools in education](https://manifesto.safeaieducation.org/checklist).
+Artificial Intelligence (AI) is a field of research, not a specific set of technologies or even a specific approach. This manifesto concerns mainly the current crop of AI technologies being introduced in the educational landscape in the mid-2020s, most of which are based on some form of machine learning and usually called Generative AI. As new breakthroughs in AI technologies emerge, this manifesto will be updated to reflect the new state of the art.
 
+The principles in the manifesto have inspired a [Checklist that can be used to evaluate and integrate AI tools in education](https://manifesto.safeaieducation.org/checklist).
 
 This is a living document and it will be updated as the community and the technology mature.
 
@@ -49,19 +50,19 @@ This is a living document and it will be updated as the community and the techno
 
 AI tools in education must always complement, not replace, human educators. While AI can assist with administrative tasks like grading or providing feedback, all decision-making processes must remain under human supervision. AI-driven decisions should be explainable, and students must have the right to appeal these decisions through human-led processes. This ensures fairness, maintains the role of teachers as mentors, and protects the integrity of the educational process.
 
-**Declaration:** We reject the use of AI as a replacement for teachers. Any decisions made by AI, particularly those related to grading and assessment, must be transparent and fully accountable to human oversight. Students must retain the right to appeal AI-driven decisions, which must be evaluated and addressed by human educators. AI's role should be to enhance, not diminish, the human connection essential to education.
+**Declaration: An AI system cannot be responsible for the education of students**. Any decisions made by AI, particularly those related to grading and assessment, must be transparent and fully accountable to human oversight. Students must retain the right to appeal AI-driven decisions, which must be evaluated and addressed by human educators. AI's role should be to enhance, not diminish, the human connection essential to education.
 
 ## Principle 2: Guaranteeing Confidentiality
 
 We commit to safeguarding the privacy and confidentiality of all student data, including identities, roles, academic records, and interactions. AI systems must be designed and implemented with stringent security measures to protect student information. Educational institutions should either own and operate the technology stack or require strict privacy compliance from AI vendors, ensuring no data is exposed to unauthorized parties.
 
-**Declaration:** We reject the use of free tools that require students to register with third-party services as a mandatory component of their education. Students should retain full control over their personal data, and the institution needs to ensure that all technologies used in the educational environment are secure, transparent, and under the institution’s direct control. This prevents any compromise to the privacy or rights of students.
+**Declaration: We caution against the use of free tools that require students to register with third-party services as a mandatory component of their education.** Students should retain full control over their personal data, and the institution needs to ensure that all technologies used in the educational environment are secure, transparent, and under the institution’s direct control. This prevents any compromise to the privacy or rights of students.
 
 ## Principle 3: Alignment with Educational Strategies
 
 AI tools must be in harmony with the educational strategies and IT governance of the institutions they serve. They should support learning objectives without introducing undue complexity or facilitating unethical practices such as cheating or plagiarism. AI should be a tool that enhances educational outcomes, not one that complicates the learning process.
 
-**Declaration:** We recognize the dangers of using general-purpose AI tools that are not specifically designed for educational contexts. The complexity of such tools, together with the risk of their misuse, undermines the educational process and adds to the background noise that impedes proper cognitive processing. We advocate for the use of AI systems that are tailored to fit the specific needs and goals of educational institutions.
+**Declaration: We recognize the risk of using general-purpose AI tools that are not specifically designed for educational contexts.** The complexity of such tools, together with the risk of their misuse, undermines the educational process and adds to the background noise that impedes proper cognitive processing. We advocate for the use of AI systems that are tailored to fit the specific needs and goals of educational institutions.
 
 ## Principle 4: Alignment with Didactic Practices
 
@@ -73,19 +74,19 @@ The deployment of AI in education must be grounded in established didactic pract
 
 Accuracy is paramount in educational contexts. AI systems must prioritize delivering precise, explainable and relevant information, especially given the risks of hallucinations and errors inherent in current AI technologies. These risks can be mitigated by deploying AI in narrowly defined application contexts and ensuring that AI tools reference their sources, allowing users to verify the information provided.
 
-**Declaration:** We demand rigorous quality assessments for AI tools used in education. The reliability of AI systems is non-negotiable, and continuous evaluation is necessary to maintain the integrity of the educational process.
+**Declaration: We encourage rigorous quality assessments for AI tools used in education.** The reliability of AI systems is non-negotiable, and continuous evaluation is necessary to maintain the integrity of the educational process.
 
 ## Principle 6: Comprehensive Interface and Behavior
 
 AI systems must have interfaces that are transparent and easily understood by students and educators. The behavior of these systems should clearly communicate their intended use and limitations, avoiding any pretense of infallibility or omniscience. AI generated content should be always clearly marked as such.
 
-**Declaration:** We advocate for AI tools that are designed with clarity and honesty at their core. These tools must explicitly convey their limitations and avoid presenting erroneous information with undue confidence. In doing so, they will support a learning environment where students can trust, but also critically assess, the AI's outputs.
+**Declaration: We advocate for AI tools that are designed with clarity and transparency at their core.** These tools must explicitly convey their limitations and avoid presenting erroneous information with undue confidence. In doing so, they will support a learning environment where students can trust, but also critically assess, the AI's outputs.
 
 ## Principle 7: Ethical Training and Transparency
 
 AI models used in education must be trained in an ethical manner, with a clear commitment to transparency regarding the sources of training data and the methodologies used. It is essential that these models actively work to minimize biases and provide transparency about their training processes, allowing educators and students to understand the limitations and considerations involved in the AI's outputs.
 
-**Declaration:** We insist that all AI tools in educational contexts must be developed and deployed with a commitment to ethical standards. This includes openly declaring the sources of training data, ensuring that the models are designed to minimize biases, and providing transparency about the potential limitations inherent in the AI's decision-making processes.
+**Declaration: We insist that all AI tools in educational contexts must be developed and deployed with a commitment to ethical standards.** This includes openly declaring the sources of training data, ensuring that the models are designed to minimize biases, and providing transparency about the potential limitations inherent in the AI's decision-making processes.
 
 ## Conclusion
 
