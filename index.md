@@ -96,7 +96,7 @@ The integration of AI into education holds great potential. However, this integr
 ## Authored by
 
 Marc Alier Forment, Francisco Garcia Peñalvo, Maria José Casañ Guerrero, Juan Antonio Pereira and Faraón Llorens Largo. 
-With additional insights from Roberto Rodríguez Echeverría, Ramón Martí, Maria Pilar Almanjano Pablos, Antoni Hernández-Fernández.
+With additional insights from Roberto Rodríguez Echeverría, Ramón Martí, Maria Pilar Almanjano Pablos, Antoni Hernández-Fernández and Jordi Cortadella .
 
 ## Signatories
 
