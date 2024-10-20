@@ -151,7 +151,8 @@ The following individuals and organizations endorse the Safe AI in Education Man
 44. **[Pedro J. Lara Bercial]**, [School Vicedean], [Universidad Europea de Madrid]
 45. **[Andoni Eguíluz Morán]**, [Researcher & Professor], [Universidad de Deusto]
 46. **[Maider Azanza]**, [Associate Professor], [Universidad del Pais Vasco/Euskal Herriko Unibertsitatea]
-
+47. **[Gregorio González-Alcaide]**, [University of Valencia]
+48. **[Dr. Oriol Nieto]**, [Senior AI researcher], [Adobe]
 
 ## How to cite the Safe AI in Education Manifesto
 
@@ -159,16 +160,17 @@ The following individuals and organizations endorse the Safe AI in Education Man
 **In-text citation**: (Alier Forment et al., 2024)
 
 **Reference list**:
-Alier Forment, M., Garcia Peñalvo, F., Casañ Guerrero, M. J., Pereira, J. A., & Llorens Largo, F. (2024, September 12). *Safe AI in Education Manifesto* (Version 0.3.0). *Safe AI in Education Manifesto*. https://manifesto.safeaieducation.org
+Alier Forment, M., Garcia Peñalvo, F., Casañ Guerrero, M. J., Pereira, J. A., & Llorens Largo, F. (2024, October 8). *Safe AI in Education Manifesto* (Version 0.4.0). *Safe AI in Education Manifesto*. https://manifesto.safeaieducation.org
 
 ### MLA Style:
 **In-text citation**: (Alier Forment et al.)
 
 **Works Cited**:
-Alier Forment, Marc, et al. *Safe AI in Education Manifesto*. Version 0.3.0, 12 Sept. 2024, https://manifesto.safeaieducation.org.
+Alier Forment, Marc, et al. *Safe AI in Education Manifesto*. Version 0.4.0, 8 Oct. 2024, https://manifesto.safeaieducation.org.
 
 ### Chicago Style:
 **In-text citation**: (Alier Forment et al. 2024)
 
 **Bibliography**:
-Alier Forment, Marc, Francisco Garcia Peñalvo, Maria José Casañ Guerrero, Juan Antonio Pereira, and Faraón Llorens Largo. *Safe AI in Education Manifesto*. Version 0.3.0, September 12, 2024. https://manifesto.safeaieducation.org.
+Alier Forment, Marc, Francisco Garcia Peñalvo, Maria José Casañ Guerrero, Juan Antonio Pereira, and Faraón Llorens Largo. *Safe AI in Education Manifesto*. Version 0.4.0, October 8, 2024. https://manifesto.safeaieducation.org.
+
