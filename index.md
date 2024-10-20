@@ -9,6 +9,8 @@ version 0.4.0 8 October 2024
 
 If you want so sign the manifesto, please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSeNWtOXgnCVYtbCUH7-LGIZCkh9pKkBiN1srctzAGsS-aHw9Q/viewform?pli=1).
 
+[Spanish version](index_es.md)
+
 # Table of Contents
 
 [Preamble](#preamble)
