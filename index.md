@@ -70,7 +70,7 @@ AI tools must be in harmony with the educational strategies and IT governance of
 
 The deployment of AI in education must be grounded in established didactic practices. Educators need to have a clear understanding of how AI tools will integrate with their instructional design and learning objectives. AI should support teaching methodologies rather than disrupt them.
 
-**Declaration:** We emphasize the need for AI tools to be adaptable to various instructional designs. Whether through specialized interfaces or specific configurations, AI should be a seamless extension of the teaching-learning process, providing support without imposing additional burdens on educators or students.
+**Declaration: We emphasize the need for AI tools to be adaptable to various instructional designs.** Whether through specialized interfaces or specific configurations, AI should be a seamless extension of the teaching-learning process, providing support without imposing additional burdens on educators or students.
 
 ## Principle 5: Accuracy and Explainability
 
