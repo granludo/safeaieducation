@@ -125,7 +125,7 @@ The following individuals and organizations endorse the Safe AI in Education Man
 17. **[Ariadna Llorens]**, [Associate Professor], [Universitat Politècnica de Catalunya]
 18. **[Benjami Villoslada]**, [Bitologist, former CIO of Government of Balearic Islands][Founder of Meneame.net and pic.dental]
 19. **[Lucia Garcia-Holgado]**, [Postdoctoral Researcher, Universidad de Salamanca]
-20. **[Francesc Torres Torres]**, [Full professor, former Rector], [Universitat Politècnica de Catalunya]
+20. **[Francesc Torres Torres]**, [Full professor, Rector], [Universitat Politècnica de Catalunya]
 21. **[Pere Botella]**, [Full professor], [Universitat Politècnica de Catalunya]
 22. **[David López Álvarez]**, [Associate Professor], [Universitat Politècnica de Catalunya]
 23. **[Maria Pilar Almanjano Pablos]**, [Full Professor ], [Universitat Politècnica de Catalunya]
