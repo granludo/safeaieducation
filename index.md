@@ -5,7 +5,7 @@ title: Safe AI in Education Manifesto
 
 # Safe AI in Education Manifesto
 
-version 0.4.0 8 October 2024
+version 0.5.0 9 Mar 2026
 
 If you want so sign the manifesto, please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSeNWtOXgnCVYtbCUH7-LGIZCkh9pKkBiN1srctzAGsS-aHw9Q/viewform?pli=1).
 
@@ -20,7 +20,7 @@ If you want so sign the manifesto, please fill in this [form](https://docs.googl
 - [Principle 3: Alignment with Educational Strategies](#principle-3-alignment-with-educational-strategies)
 - [Principle 4: Alignment with Didactic Practices](#principle-4-alignment-with-didactic-practices)
 - [Principle 5: Accuracy and Explainability](#principle-5-accuracy-and-explainability)
-- [Principle 6: Comprehensive Interface and Behavior](#principle-6-comprehensive-interface-and-behavior)
+- [Principle 6: Comprehensible Interface and Behavior](#principle-6-comprehensible-interface-and-behavior)
 - [Principle 7: Ethical Training and Transparency](#principle-7-ethical-training-and-transparency)
 
 [Conclusion](#conclusion)
@@ -78,7 +78,7 @@ Accuracy is paramount in educational contexts. AI systems must prioritize delive
 
 **Declaration: We encourage rigorous quality assessments for AI tools used in education.** The reliability of AI systems is non-negotiable, and continuous evaluation is necessary to maintain the integrity of the educational process.
 
-## Principle 6: Comprehensive Interface and Behavior
+## Principle 6: Comprehensible Interface and Behavior
 
 AI systems must have interfaces that are transparent and easily understood by students and educators. The behavior of these systems should clearly communicate their intended use and limitations, avoiding any pretense of infallibility or omniscience. AI generated content should be always clearly marked as such.
 
@@ -135,7 +135,7 @@ The following individuals and organizations endorse the Safe AI in Education Man
 27. **[Josep Ganyet]**, [CEO, Mortensen.cat][Guest lecturer], [Universitat Pompeu Fabra]
 28. **[Roberto Rodríguez Echeverría]**, [Associate Professor], [Universidad de Extremadura]
 29. **[Carme Fenoll Clarabuch]**, [Director of the area of culture and community], [Universitat Politècnica de Catalunya]
-30. **[Mar Carrió Llach]**, [Associate Professor][Director of the Institute of Sicences of Education, UPC], [Universitat Politècica de Catalunya]
+30. **[Mar Carrió Llach]**, [Associate Professor][UPC], [Universitat Politècica de Catalunya]
 31. **[Alberto Prieto]**, [Emeritus Professor], [Universidad de Granada]
 32. **[Antonio Vallecillo]**, [Full Professor], [Universidad de Malaga]
 33. **[Susana de Juana-Espinosa]**, [Assistant Lecturer], [Universidad de Alicante]
@@ -193,6 +193,20 @@ The following individuals and organizations endorse the Safe AI in Education Man
 85. **[Almudena Mangas Vega]**, [Bibliometrics, Library Services], [University of Salamanca]
 86. **[Francesc Boixader]**, [Director], [Escola Universitària d'Informàtica Tomàs Cerdà]
 87. **[Humberto Fernando Ortiz V.]**, [Librarian / Specialized in Open Source Intelligence (OSINT)]
+88. **[Jose María Alvarez Rodríguez]**, [Associate Professor (Carlos III University of Madrid)]
+89. **[Murat Yiğittekin]**, [Doctorant-Sivas Cumhuriyet Üniversitesi]
+90. **[Pasqual Martí Gimeno]**, [Professor Ajudant Doctor, Universitat Politècnica de València]
+91. **[Alejandro Artopoulos]**, [Profesor y Director Académico del Centro de Innovación Pedagógica, Universidad de San Andrés]
+92. **[Ander Arce Alonso]**, [Assistant Professor, Universidad del País Vasco (EHU)]
+93. **[Luiz Henrique Piazentini Rosa]**, [Professor Doctor Investigador]
+94. **[Javier Portillo Berasaluce]**, [Professor at University of the Basque Country]
+95. **[Germán Díaz Hernández]**, [Director eScire]
+96. **[Yingjie Li]**, [Associate Professor]
+97. **[Yingjie Li]**, [Hebei Institute of Communications-Associate Professor]
+98. **[Leonardo Glasserman]**, [Research Professor, Tecnologico de Monterrey]
+99. **[VICTOR]**, [ESTUDIANTE]
+100. **[MPuerto Paule]**, [Associate Professor, Universidad Oviedo]
+101. **[Diez de Velasco, Francisco]**, [Catedratico, Universidad de La Laguna, Canarias, España]
 
 
 

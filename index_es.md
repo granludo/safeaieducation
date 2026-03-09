@@ -20,7 +20,7 @@ Si desea firmar el manifiesto, por favor rellene este [formulario](https://docs.
 - [Principio 3: Alineación con Estrategias Educativas](#principio-3-alineación-con-estrategias-educativas)
 - [Principio 4: Alineación con Prácticas Didácticas](#principio-4-alineación-con-prácticas-didácticas)
 - [Principio 5: Precisión y Explicabilidad](#principio-5-precisión-y-explicabilidad)
-- [Principio 6: Interfaz y Comportamiento Integral](#principio-6-interfaz-y-comportamiento-integral)
+- [Principio 6: Interfaz y Comportamiento Comprensibles](#principio-6-interfaz-y-comportamiento-comprensibles)
 - [Principio 7: Formación Ética y Transparencia](#principio-7-formación-ética-y-transparencia)
 
 [Conclusión](#conclusión)
@@ -77,7 +77,7 @@ La precisión es primordial en contextos educativos. Los sistemas de IA deben pr
 
 **Declaración: Fomentamos evaluaciones rigurosas de calidad para las herramientas de IA utilizadas en la educación.** La fiabilidad de los sistemas de IA es innegociable, y la evaluación continua es necesaria para mantener la integridad del proceso educativo.
 
-## Principio 6: Interfaz y Comportamiento Integral
+## Principio 6: Interfaz y Comportamiento Comprensibles
 
 Los sistemas de IA deben tener interfaces que sean transparentes y fácilmente comprensibles para estudiantes y educadores. El comportamiento de estos sistemas debe comunicar claramente su uso previsto y limitaciones, evitando cualquier pretensión de infalibilidad u omnisciencia. El contenido generado por IA siempre debe estar claramente marcado como tal.
 
