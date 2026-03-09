@@ -201,12 +201,11 @@ The following individuals and organizations endorse the Safe AI in Education Man
 93. **[Luiz Henrique Piazentini Rosa]**, [Professor Doctor Investigador]
 94. **[Javier Portillo Berasaluce]**, [Professor at University of the Basque Country]
 95. **[Germán Díaz Hernández]**, [Director eScire]
-96. **[Yingjie Li]**, [Associate Professor]
-97. **[Yingjie Li]**, [Hebei Institute of Communications-Associate Professor]
-98. **[Leonardo Glasserman]**, [Research Professor, Tecnologico de Monterrey]
-99. **[VICTOR]**, [ESTUDIANTE]
-100. **[MPuerto Paule]**, [Associate Professor, Universidad Oviedo]
-101. **[Diez de Velasco, Francisco]**, [Catedratico, Universidad de La Laguna, Canarias, España]
+96. **[Yingjie Li]**, [Hebei Institute of Communications-Associate Professor]
+97. **[Leonardo Glasserman]**, [Research Professor, Tecnologico de Monterrey]
+98. **[VICTOR]**, [ESTUDIANTE]
+99. **[MPuerto Paule]**, [Associate Professor, Universidad Oviedo]
+100. **[Diez de Velasco, Francisco]**, [Catedratico, Universidad de La Laguna, Canarias, España]
 
 
 
